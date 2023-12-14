@@ -1,0 +1,5 @@
+I used nltk, string and matplotlib. Both nltk and matplotlib worked as they were supposed to and I couldn't find any problems with them. Only the string module was a bit tricky when I used its punctuation constant. The constant includes the following punctuation types:
+
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+
+However, it did not include ’ which was actually part of the text in my .txt file. This means that I had to manually add it to my list of punctuations. It is not a big thing but it did cause some confusion when I looked at the data and it was not as pre-processed as intended.
