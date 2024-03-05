@@ -4,7 +4,7 @@ Intro to Programming WS23/24
 
 The repository of the course "Programming 1" at UNI Graz.
 
-- winter semester 22/23, winter semester 23/24
+- winter semester 22/23, winter semester 23/24, summer semester 23/24
 
   Course adapted from:  https://github.com/gvasold/gdp21 by Gunter Vasold.
 
