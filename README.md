@@ -38,3 +38,4 @@ This will bring up your browser and will show you the contents of the `IP23` dir
 
 ## License
 
+Creative Commons Attribution 4.0 International
